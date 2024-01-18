@@ -1,5 +1,5 @@
 # UETeamProject
-[](/images/297622322-26f36bb9-e56b-4ee6-8055-7a101c518c76)
+[](/images/297622322-26f36bb9-e56b-4ee6-8055-7a101c518c76.png)
 
 Unreal Engine으로 만든 FPS 팀 프로젝트
 
@@ -21,8 +21,6 @@ Unreal Engine으로 만든 FPS 팀 프로젝트
 {% include embed/youtube.html id='ejRE3VO9VsQ' %}
 
 [다운로드](https://naver.me/FCBRRcN4)
-
-[Source](https://github.com/sinsin950313/UETeamProject)
 
 # 동영상
 https://www.youtube.com/watch?v=ejRE3VO9VsQ&ab_channel=%EC%8B%A0%EC%8A%B9%EB%B9%88
