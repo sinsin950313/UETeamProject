@@ -20,8 +20,6 @@ Unreal Engine으로 만든 FPS 팀 프로젝트
 
 {% include embed/youtube.html id='ejRE3VO9VsQ' %}
 
-[다운로드](https://naver.me/FCBRRcN4)
-
 # 동영상
 https://www.youtube.com/watch?v=ejRE3VO9VsQ&ab_channel=%EC%8B%A0%EC%8A%B9%EB%B9%88
 
